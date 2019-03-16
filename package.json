@@ -1,0 +1,8 @@
+{
+  "name": "shoppingcartfront",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Capril1042/shoppingcartfront.git",
+  "author": "Capril1042 <Caprilewis1042@gmail.com>",
+  "license": "MIT"
+}

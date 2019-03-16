@@ -9,8 +9,8 @@ import Dashboard from './components/Dashboard.js';
 const Routes = () => {
     return (
         <Switch>
-        <Route path="/" exact component={LandingPage} />
-        <Route path="/sign-in" component={SignIn} />
+        <Route path="/" exact component={SignIn} />
+        {/* <Route path="/sign-in" component={SignIn} /> */}
         <Route path="/sign-up" component={SignUp} />
         <Route path="/dashboard" component={Dashboard} /> 
         </Switch>
